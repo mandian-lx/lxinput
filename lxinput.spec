@@ -1,6 +1,6 @@
 Summary:	Configure keyboard and mouse
 Name:     	lxinput
-Version:	0.1
+Version:	0.1.1
 Release:	%mkrel 1
 License:	GPLv2+
 Group:		Graphical desktop/Other
