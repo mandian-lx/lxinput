@@ -34,3 +34,4 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/%name
 %{_datadir}/applications/*.desktop
 %{_datadir}/%name
+%{_mandir}/man1/*.1.*
