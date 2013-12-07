@@ -1,7 +1,7 @@
 Summary:	Configure keyboard and mouse
 Name:		lxinput
 Version:	0.3.2
-Release:	3
+Release:	4
 License:	GPLv2+
 Group:		Graphical desktop/Other
 # restore broked system changes for GTK3
